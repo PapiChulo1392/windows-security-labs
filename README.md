@@ -6,8 +6,6 @@ This repository documents my progression through Windows security fundamentals, 
 
 - [Windows Security Fundamentals](windows-fundamentals.md)
 - Active Directory Basics and Lab — Coming soon
-- Windows Event Log Investigation — Planned
-- Sysmon and Splunk Investigation — Planned
 
 ## Topics Covered
 
