@@ -1,6 +1,4 @@
-# windows-security-labs
-Windows security fundamentals, Active Directory, and endpoint security learning labs.
-# Windows Security Labs
+# Windows-Security-Labs
 
 This repository documents my progression through Windows security fundamentals, Active Directory, endpoint monitoring, and security investigations.
 
